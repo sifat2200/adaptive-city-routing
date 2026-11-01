@@ -1,0 +1,17 @@
+# Road network for the Adaptive City Routing System
+# Format: from to transport distance(km) time(minutes) cost(taka)
+# Roads are two-way. Location names must be single words.
+Uttara Banani Bus 12 35 40
+Uttara Mirpur Bus 10 30 35
+Mirpur Farmgate Bus 8 25 30
+Farmgate Shahbag Metro 5 10 20
+Shahbag Motijheel Metro 6 12 25
+Banani Gulshan Walking 3 25 0
+Gulshan Badda Bus 4 15 20
+Badda Rampura Bus 5 18 25
+Rampura Motijheel Bus 7 25 30
+Banani Farmgate Bus 9 28 35
+Mirpur Shahbag Metro 10 20 30
+Gulshan Motijheel Bus 12 35 45
+Uttara Airport Metro 6 8 20
+Airport Banani Metro 7 10 25

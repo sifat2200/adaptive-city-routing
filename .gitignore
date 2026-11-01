@@ -1,0 +1,19 @@
+# Compiled binaries (rebuild from source on each platform)
+adaptive_routing
+run_tests
+*.exe
+*.o
+*.obj
+*.out
+
+# Build directories and IDE / OS files
+build/
+.vs/
+.vscode/
+.idea/
+*.user
+.DS_Store
+Thumbs.db
+
+# Local scratch input files (keep sample inputs under examples/)
+my_input.txt
