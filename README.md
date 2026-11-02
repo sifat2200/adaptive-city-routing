@@ -250,14 +250,3 @@ Each result also reports the total distance, time, and cost along the chosen pat
 | Colab cell says `No such file or directory` | Run the clone cell first, so that the working directory is the project folder. |
 
 ---
-
-## Publishing to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: adaptive city routing system"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/adaptive-city-routing.git
-git push -u origin main
-```
